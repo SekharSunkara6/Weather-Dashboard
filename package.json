@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pekkiriscim/weather.git"
+    "url": "git+https://github.com/SekharSunkara6/Weather-Dashboard.git"
   },
   "author": "Mustafa Pekkirişci",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pekkiriscim/weather/issues"
+    "url": "https://github.com/SekharSunkara6/Weather-Dashboard.git"
   },
-  "homepage": "https://github.com/pekkiriscim/weather#readme",
+  "homepage": "https://github.com/SekharSunkara6/Weather-Dashboard.git",
   "devDependencies": {
     "autoprefixer": "^10.4.14",
     "sass": "^1.59.2",
